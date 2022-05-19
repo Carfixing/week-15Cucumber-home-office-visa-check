@@ -1,0 +1,78 @@
+2022-05-18 11:05:566 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:77 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:129 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:321 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:495 INFO  SelectNationalityPage :25 - select country [[ChromeDriver: chrome on WINDOWS (2a967fe654c39ab5fbaa2ce547ab3b0a)] -> id: response]
+2022-05-18 11:05:163 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:927 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:119 INFO  SelectNationalityPage :25 - select country [[ChromeDriver: chrome on WINDOWS (50c8dd8ab64d6316341f1d3464a40484)] -> id: response]
+2022-05-18 11:05:111 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:668 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:893 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (ad13d026d8ce23ad09134b66ea5d7fb3)] -> id: response]
+2022-05-18 11:05:966 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (ad13d026d8ce23ad09134b66ea5d7fb3)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:416 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:515 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:721 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (bbe08966563d46521ee822b06baf143b)] -> id: response]
+2022-05-18 11:05:800 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (bbe08966563d46521ee822b06baf143b)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:153 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:01 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:338 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (05b07198b40906dc532087a2764c4e25)] -> id: response]
+2022-05-18 11:05:444 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (05b07198b40906dc532087a2764c4e25)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:810 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (05b07198b40906dc532087a2764c4e25)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:940 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:810 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:26 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (7b4b2518d4527d6771d055f3653efed6)] -> id: response]
+2022-05-18 11:05:102 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (7b4b2518d4527d6771d055f3653efed6)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:402 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (7b4b2518d4527d6771d055f3653efed6)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:978 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:522 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:746 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (1baca03849e67a29ff7d8423e9062189)] -> id: response]
+2022-05-18 11:05:844 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (1baca03849e67a29ff7d8423e9062189)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:149 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (1baca03849e67a29ff7d8423e9062189)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:120 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:593 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:772 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (68f75c71f353dad6659355d81e76ceb8)] -> id: response]
+2022-05-18 11:05:850 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (68f75c71f353dad6659355d81e76ceb8)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:183 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (68f75c71f353dad6659355d81e76ceb8)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:74 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 11:05:878 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 11:05:98 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (b7cb5993d1faf59b892dd364cee4a48d)] -> id: response]
+2022-05-18 11:05:204 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (b7cb5993d1faf59b892dd364cee4a48d)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:594 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (b7cb5993d1faf59b892dd364cee4a48d)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:844 INFO  DurationOfStayPage :31 - Select the Stay time length [[[ChromeDriver: chrome on WINDOWS (b7cb5993d1faf59b892dd364cee4a48d)] -> xpath: //div[@class='govuk-radios']//label], [[ChromeDriver: chrome on WINDOWS (b7cb5993d1faf59b892dd364cee4a48d)] -> xpath: //div[@class='govuk-radios']//label]]
+2022-05-18 11:05:889 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (b7cb5993d1faf59b892dd364cee4a48d)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 11:05:563 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 12:05:446 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 12:05:638 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> id: response]
+2022-05-18 12:05:711 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:60 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:344 INFO  DurationOfStayPage :31 - Select the Stay time length [[[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//label], [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//label]]
+2022-05-18 12:05:440 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:686 INFO  WorkTypePage :32 - select job type list[[[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //div[@class='govuk-radios']//div//label]]
+2022-05-18 12:05:753 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (e1d4962b592350eceeb61a53537b1b9a)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:739 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 12:05:611 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 12:05:822 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (19ea3d9cb8620005f946ebd76d076984)] -> id: response]
+2022-05-18 12:05:903 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (19ea3d9cb8620005f946ebd76d076984)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:258 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (19ea3d9cb8620005f946ebd76d076984)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:522 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (19ea3d9cb8620005f946ebd76d076984)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:751 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 12:05:967 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 12:05:202 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (dbbf1a881fff57f252eebf8eebd6b206)] -> id: response]
+2022-05-18 12:05:282 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (dbbf1a881fff57f252eebf8eebd6b206)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:597 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (dbbf1a881fff57f252eebf8eebd6b206)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:593 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 12:05:113 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 12:05:310 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> id: response]
+2022-05-18 12:05:366 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:683 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:935 INFO  DurationOfStayPage :31 - Select the Stay time length [[[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//label], [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//label]]
+2022-05-18 12:05:978 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:224 INFO  WorkTypePage :32 - select job type list[[[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //div[@class='govuk-radios']//div//label]]
+2022-05-18 12:05:290 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (8fcbfb1b0ff0f77a80d957ce8e4e47d8)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:298 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 12:05:971 INFO  StartPage :26 - click On Start ButtonStart now
+2022-05-18 12:05:149 INFO  SelectNationalityPage :29 - select country [[ChromeDriver: chrome on WINDOWS (c0fe45218a53802e119f44a6d2b8047e)] -> id: response]
+2022-05-18 12:05:215 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (c0fe45218a53802e119f44a6d2b8047e)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:580 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (c0fe45218a53802e119f44a6d2b8047e)] -> xpath: //button[normalize-space()='Continue']]
+2022-05-18 12:05:841 INFO  SelectNationalityPage :34 - click on continue button [[ChromeDriver: chrome on WINDOWS (c0fe45218a53802e119f44a6d2b8047e)] -> xpath: //button[normalize-space()='Continue']]
